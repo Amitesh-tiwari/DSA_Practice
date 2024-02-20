@@ -38,6 +38,8 @@ int kSorted(vector<vector<int>> &a, int k, int n) {
     
     int mini = INT_MAX, maxi = INT_MIN;
     priority_queue<node*, vector<node*>, compare > minheap;
+
+  //step:1 Create a MinHeap for storing the starting element of each list and keeping track of mini and maxi.
     
     for(int i =0;i<k;i++){
         int element = a[i][0];
