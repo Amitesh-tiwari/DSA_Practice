@@ -49,11 +49,16 @@ int kSorted(vector<vector<int>> &a, int k, int n) {
     }
 
     int start = mini, end = maxi;
+  //Process ranges
     while(!minheap.empty()){
+      
+      //fetching the minimum element
+      
         node* temp = minheap.top();
         minheap.pop();
         mini = temp->data;
 
+      // updating the range
         if(maxi - mini < end - start){
             start = mini;
             end = maxi;
