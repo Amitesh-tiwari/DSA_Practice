@@ -16,6 +16,7 @@ The total cost is 15.
 
 //code
 //Top Down Approach
+//Recursion + Memoization
 class Solution {
 public:
 
@@ -46,6 +47,7 @@ public:
 };
 
 //bottom up approach
+// Tabular Approach
  int solve(vector<int>& cost, int n)
     {
         vector<int> dp(n+1);
