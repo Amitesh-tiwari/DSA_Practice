@@ -32,5 +32,5 @@ vector<int> bfsTraversal(int n, vector<vector<int>> &adj){
             }
         }
     }
-    return res;
+    return result;
 }
