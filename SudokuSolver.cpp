@@ -1,7 +1,10 @@
 Problem statement
-You have been given a 9x9 2d integer matrix 'MAT' representing a Sudoku puzzle. 
-The empty cells of the Sudoku are filled with zeros, and the rest of the cells are filled with integers from 1 to 9. 
-Your task is to fill all the empty cells such that the final matrix represents a Sudoku solution.
+You have been given a 9x9 2d integer matrix 'MAT' representing 
+a Sudoku puzzle. 
+The empty cells of the Sudoku are filled with zeros,
+and the rest of the cells are filled with integers from 1 to 9. 
+Your task is to fill all the empty cells such that the 
+final matrix represents a Sudoku solution.
 
 Note:
 A Sudoku solution must satisfy all the following conditions-
