@@ -1,7 +1,12 @@
-You are given an array ‘ARR’ consisting of ‘N’ strings. Your task is to find the longest common prefix among all these strings.
- If there is no common prefix, you have to return an empty string.
+You are given an array ‘ARR’ consisting of ‘N’ strings. 
+Your task is to find the longest common prefix among all 
+these strings.
+ If there is no common prefix, you have to return an empty 
+ string.
 
-A prefix of a string can be defined as a substring obtained after removing some or all characters from the end of the string.
+A prefix of a string can be defined as a substring obtained 
+after removing some or all characters from the end 
+of the string.
 
 For Example:
 Consider ARR = [“coding”, ”codezen”, ”codingninja”, ”coders”]

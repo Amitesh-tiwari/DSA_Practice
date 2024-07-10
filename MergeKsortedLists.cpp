@@ -1,5 +1,7 @@
-Given 'k' sorted linked lists, each list is sorted in increasing order. 
-You need to merge all these lists into one single sorted list. 
+Given 'k' sorted linked lists, each list is sorted in 
+increasing order. 
+You need to merge all these lists into one single sorted 
+list. 
 You need to return the head of the final linked list.
 
 #include<queue>

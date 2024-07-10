@@ -1,5 +1,8 @@
 Problem statement
-You are given a matrix 'MATRIX' of dimension 'N' x 'M'. Your task is to make all the elements of row 'i' and column 'j' equal to 0 if any element in the ith row or jth column of the matrix is 0.
+You are given a matrix 'MATRIX' of dimension 'N' x 'M'. 
+Your task is to make all the elements of row 'i' and column 'j'
+equal to 0 
+if any element in the ith row or jth column of the matrix is 0.
 
 Note:
 
