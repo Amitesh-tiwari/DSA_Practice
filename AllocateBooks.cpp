@@ -13,8 +13,7 @@ lexicographically smaller, we compare their first elements
   where ‘i’ is the first index in which the permutations 
   X and Y differ.
 
-For example, [2, 1, 3, 4] is lexicographically smaller 
-than [2, 1, 4, 3].
+
 
 //code
 #include <bits/stdc++.h> 
