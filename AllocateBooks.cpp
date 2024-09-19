@@ -22,7 +22,7 @@ vector<int> nextPermutation(vector<int> &permutation, int n)
     int i = n - 2;
     while (i >= 0 && permutation[i] >= permutation[i + 1])
     {
-        i--;
+        i++;
     }
     if (i < 0)
     {
